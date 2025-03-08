@@ -1,0 +1,5 @@
+get game ID here 
+Site pegar ID dos Jogos
+
+
+---> https://steamdb.info/
