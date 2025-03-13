@@ -14,6 +14,9 @@ The creator of this repository would like to acknowledge the following sources a
 
 - [SteamTools Website](https://www.steamtools.net/)
 - [SteamTools Forum](https://bbs.steamtools.net/)
+- [Cysaw](https://cysaw.top/)
+- [Fairy-Root GitHub](https://github.com/fairy-root)
+- [Onajlikezz GitHub](https://github.com/onajlikezz)
 - Discord: **ahmed_la**
 
 Thank you to these sites and people for their valuable contributions to the Steam tools community.
