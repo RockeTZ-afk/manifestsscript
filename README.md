@@ -1,0 +1,23 @@
+# SteamTools Repository
+
+This repository contains several tools and resources related to Steam, including:
+
+- SteamTools
+- Depot Online
+- Bypass tools
+- Manifest websites
+- And more...
+
+## Credits
+
+The creator of this repository would like to acknowledge the following sources and contributors:
+
+- [SteamTools Website](https://www.steamtools.net/)
+- [SteamTools Forum](https://bbs.steamtools.net/)
+- Discord: **ahmed_la**
+
+Thank you to these sites and people for their valuable contributions to the Steam tools community.
+
+## Disclaimer
+
+Please note that the tools and resources provided here are for educational purposes. Use them at your own discretion, and respect the terms of service of Steam and other platforms.
