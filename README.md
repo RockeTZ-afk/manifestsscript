@@ -19,8 +19,6 @@ The creator of this repository would like to acknowledge the following sources a
 - [Onajlikezz GitHub](https://github.com/onajlikezz)
 - Discord: **ahmed_la**
 
-Thank you to these sites and people for their valuable contributions to the Steam tools community.
-
 ## Disclaimer
 
 Please note that the tools and resources provided here are for educational purposes. Use them at your own discretion, and respect the terms of service of Steam and other platforms.
