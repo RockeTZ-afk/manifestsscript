@@ -8,9 +8,9 @@ This repository contains several tools and resources related to Steam, including
 - Manifest websites
 - And more...
 
-## Credits
+## Creators
 
-The creator of this repository would like to acknowledge the following sources and contributors:
+Creators of all tools:
 
 - [SteamTools Website](https://www.steamtools.net/)
 - [SteamTools Forum](https://bbs.steamtools.net/)
