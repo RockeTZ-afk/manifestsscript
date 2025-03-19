@@ -1,7 +1,0 @@
-To download the depot just go to this link below and download the most current version of the sdo.1.2.zip
-
-
-https://github.com/fairy-root/steam-depot-online/releases/tag/sdov1.2
-
-
-creator: fairy-root
